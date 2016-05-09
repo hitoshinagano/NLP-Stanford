@@ -15,6 +15,6 @@ The videos, slides and assignment (description and starter code) can be found in
 * Homework 5 : Jeopardy !
 
 # Notes
-Data folder for Homework 3 and 4 not uploaded. Download from the links above
+Data folder for Homework 3 and 4 not uploaded. Download from the links above.\n
 Homework 5 is in progress.
 
