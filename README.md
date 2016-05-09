@@ -2,7 +2,7 @@
 These are solutions to programming assignments from Stanford's NLP course. 
 
 # Course material
-The videos, slides and assignment (description and starter code) can be found in:
+The videos, slides and assignments (description and starter code) can be found in:
 * https://www.coursera.org/course/nlp
 * http://www.mohamedaly.info/teaching/cmp-462-spring-2013 
 * http://web.stanford.edu/class/cs124/
