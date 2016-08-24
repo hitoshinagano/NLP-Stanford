@@ -1,5 +1,5 @@
 # NLP-Stanford
-These are solutions to programming assignments from Stanford's NLP course. 
+These are my solutions to programming assignments from Stanford's NLP course. 
 
 # Course material
 The videos, slides and assignments (description and starter code) can be found in:
